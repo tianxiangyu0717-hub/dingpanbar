@@ -1,0 +1,9 @@
+# Build & dist artefacts
+MacApp/build/
+MacApp/dist/
+MacApp/*.xcodeproj/
+WatchApp/*.xcodeproj/
+
+# macOS noise
+.DS_Store
+*.swp

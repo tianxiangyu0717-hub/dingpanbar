@@ -1,0 +1,42 @@
+name: DingPanBar
+options:
+  bundleIdPrefix: app.dingpanbar
+  deploymentTarget:
+    macOS: "13.0"
+  createIntermediateGroups: true
+
+settings:
+  base:
+    MARKETING_VERSION: "1.4"
+    CURRENT_PROJECT_VERSION: "5"
+    CODE_SIGN_STYLE: Manual
+    CODE_SIGN_IDENTITY: "-"
+    DEVELOPMENT_TEAM: ""
+    GENERATE_INFOPLIST_FILE: NO
+    SWIFT_VERSION: "5.0"
+    PRODUCT_NAME: DingPanBar
+
+targets:
+  DingPanBar:
+    type: application
+    platform: macOS
+    sources:
+      - Sources
+      - Resources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: app.dingpanbar.DingPanBar
+        INFOPLIST_FILE: Config/Info.plist
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ENABLE_HARDENED_RUNTIME: NO
+        CODE_SIGN_ENTITLEMENTS: ""
+
+schemes:
+  DingPanBar:
+    build:
+      targets:
+        DingPanBar: all
+    run:
+      config: Debug
+    archive:
+      config: Release
