@@ -1,3 +1,5 @@
+<img width="1027" height="1440" alt="微信图片_20260529144352_111_23" src="https://github.com/user-attachments/assets/55189bcf-569d-43a4-b87f-f1fbffe1617d" />
+
 # 盯盘 Bar — Mac 状态栏全市场行情监控
 
 > 不抢屏、不打扰，A 股 / 港美股 / 基金 / 期货常驻 Mac 菜单栏。
