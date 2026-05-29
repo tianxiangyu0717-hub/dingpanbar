@@ -1,7 +1,5 @@
-<img width="528" height="78" alt="微信图片_20260529144353_112_23" src="https://github.com/user-attachments/assets/a9d34285-b6aa-4165-9a22-fe653a41ed90" />
-<img width="1086/2" height="1448/2" alt="微信图片_20260529144350_109_23" src="https://github.com/user-attachments/assets/41a4081f-e191-4721-bdaf-f7e13bfb055f" />
-<img width="1086" height="1448" alt="微信图片_20260529144351_110_23" src="https://github.com/user-attachments/assets/d014929b-d176-4de5-a0b0-3833b3543947" />
-<img width="1027" height="1440" alt="微信图片_20260529144352_111_23" src="https://github.com/user-attachments/assets/55189bcf-569d-43a4-b87f-f1fbffe1617d" />
+<img width="543" height="724" alt="微信图片_20260529144350_109_23" src="https://github.com/user-attachments/assets/41a4081f-e191-4721-bdaf-f7e13bfb055f" />
+<img width="543" height="724" alt="微信图片_20260529144351_110_23" src="https://github.com/user-attachments/assets/d014929b-d176-4de5-a0b0-3833b3543947" />
 
 
 # 盯盘 Bar — Mac 状态栏全市场行情监控
@@ -28,6 +26,7 @@
 ## Part 1 · Mac 状态栏原生 App（推荐）✅
 
 ### 功能
+<img width="528" height="78" alt="微信图片_20260529144353_112_23" src="https://github.com/user-attachments/assets/a9d34285-b6aa-4165-9a22-fe653a41ed90" />
 
 - **监控列表**：自定义最多 **30 条**，设置页按 **A 股 / 港美股 / 基金 / 期货** 四组维护。`AU9999` 严格说是上金所现货，但在产品里归入「期货」下的贵金属行情组。批量请求新浪 API，单次拉取。
 - **状态栏轮播**：两种模式可切换 ——
@@ -40,6 +39,7 @@
 - **价格提醒**：可预设最多 **10 条**阈值（涨到 / 跌到），可绑定监控列表中的**任意条目**（A 股、港股、美股、贵金属均支持）。价格穿越时在状态栏图标正下方弹**黑底浮层**（小红点/小绿点标识方向），鼠标 hover 即消失。分**单次**（触发即移除）和**重复**（每次穿越都触发）。
 - **"还在刷"信号**：每次刷新成功状态栏短暂脉冲（120ms 暗→500ms 缓恢复）；超过 2 倍刷新间隔仍未拿到新数据 → 整行 alpha 0.5 提示陈旧。
 - **刷新间隔**：默认 60s，可调 5–3600s。
+<img width="1027" height="1440" alt="微信图片_20260529144352_111_23" src="https://github.com/user-attachments/assets/55189bcf-569d-43a4-b87f-f1fbffe1617d" />
 
 ### 文件结构
 
