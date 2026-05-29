@@ -1,4 +1,4 @@
-<img width="543" height="724" alt="微信图片_20260529144350_109_23" src="https://github.com/user-attachments/assets/41a4081f-e191-4721-bdaf-f7e13bfb055f" /><img width="543" height="724" alt="微信图片_20260529144351_110_23" src="https://github.com/user-attachments/assets/d014929b-d176-4de5-a0b0-3833b3543947" />
+<img width="271" height="362" alt="微信图片_20260529144350_109_23" src="https://github.com/user-attachments/assets/41a4081f-e191-4721-bdaf-f7e13bfb055f" /> <img width="271" height="362" alt="微信图片_20260529144351_110_23" src="https://github.com/user-attachments/assets/d014929b-d176-4de5-a0b0-3833b3543947" />
 
 
 # 盯盘 Bar — Mac 状态栏全市场行情监控
